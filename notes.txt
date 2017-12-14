@@ -1,0 +1,60 @@
+angular
+	- a javascript framework which allows you to create reactive single-page-applications (SPAs)
+	- reactive means the page is dynamic without loading the whole page
+	- date is loaded in the backpage
+
+why angular
+	- built for speed
+	- modern (uses ECMAScript)
+	
+typescript
+	- certified programming language used by angular
+	- a superset of JavaScript
+	- it compiles tp plain JS
+	- offers more features than JS
+		- classes
+		- interfaces
+		- strong typing
+
+interfaces	
+	- are like contracts
+	- allows to create a secure form of communication between several objects
+
+generics
+	- allows to become flexible
+	
+React 
+	- made by Facebook
+	- more on pattern
+	- uses own library which is NativeReact
+	- used for responsive UI
+	- used for hybrid applications
+	
+Angular
+	- uses Ionic
+	- used for responsive UI
+	- used for hybrid applications
+
+code .
+
+e2e - end to end testing files
+ng serve - acts like a development web server
+	
+[] - Square Bracket => property
+() - Parenthesis => Event
+	
+	
+ng new <app name> - create new app/project
+ng g c <component name> - create new component
+ng g s <class name> - create new service
+ng g cl <class name> - create new class
+npm install --save bootstrap - install bootstrap to current project
+npm install --save jquery - install jquery to current project
+	
+Visual Studio Code
+Node JS v9.3.0
+bootstrap
+
+
+	
+	
